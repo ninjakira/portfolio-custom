@@ -1,10 +1,10 @@
-<title>
+<header>
 CG's Portfolio
-</title>
+</header>
 
-% CG's Portfolio
 
-# CG's Portfolio
+
+# Portfolio
 
 ## [Project 1]()
 
