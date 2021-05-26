@@ -1,7 +1,11 @@
+url: https://ninjakira.github.io
+baseurl: portfolio-custom
+
 theme: jekyll-theme-hacker
 
 title: CG's Portfolio
 
 description: "ninjakira.github.io"
+
 
 
